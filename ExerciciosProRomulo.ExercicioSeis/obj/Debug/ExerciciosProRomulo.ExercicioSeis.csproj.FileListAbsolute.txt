@@ -6,3 +6,11 @@ C:\Users\Aluno\Documents\Curso\ExerciciosProfRomulo\ExerciciosProRomulo.Exercici
 C:\Users\Aluno\Documents\Curso\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Documents\Curso\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.exe
 C:\Users\Aluno\Documents\Curso\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.pdb
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.exe
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\obj\Debug\ExerciciosProRomulo.ExercicioSeis.pdb
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\bin\Debug\ExerciciosProRomulo.ExercicioSeis.exe.config
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\bin\Debug\ExerciciosProRomulo.ExercicioSeis.exe
+C:\Users\Aluno\Desktop\ExerciciosProfRomulo\ExerciciosProRomulo.ExercicioSeis\bin\Debug\ExerciciosProRomulo.ExercicioSeis.pdb

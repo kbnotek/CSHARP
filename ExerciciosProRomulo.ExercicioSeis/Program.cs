@@ -32,9 +32,14 @@ namespace ExerciciosProRomulo.ExercicioSeis
             {
                 if (i % 2 == 0)
                 {
-                    Console.WriteLine(i);
+                    Console.WriteLine($"Esse Número é par {i}");
                 }
-              
+                else
+
+                    Console.WriteLine($"Esse número não é par - {i}");
+
+
+
                 i++;
 
             }
